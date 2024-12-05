@@ -1,9 +1,7 @@
 # React Product Categories Practice
 
-> Here is [the working version](https://mate-academy.github.io/react_product-categories-practice/)
-
 You are given a markup for a table of products and 3 arrays. 
-Implement as many options below as you can:
+Implementted many options:
 
 1. Render products in a table with id, name, category, and owner (user).
     - category should render its icon before the title;
@@ -30,13 +28,6 @@ Implement as many options below as you can:
     - the third click disables sorting;
     - products are sorted by 1 column at a time (reset the column title when clicking on the other one)
 
-## Instructions
-- Fork, clone, and run `npm i`
-- fix the DEMO LINK below (use your GitHub username and the repo name)
-  - [DEMO LINK](https://<your-account>.github.io/<your-repo-name>)
-- implement tasks one by one (You can do it in the `App.jsx`)
-- `commit`, `push`, and `deploy` after each task
-- Send a link to your `App.jsx` file to your personal Slack channel (for example #fe_apr22_misha_hrynko)
-- Send a message about solving the next step after each `push` and `deploy` (e.g. Task 3 is done)
-- If you are done with the required tasks please proceed with solving the optional once
-- Stop when the time is over (typically 2.5 hours from the start)
+## Demo Links
+
+- [DEMO LINK](https://AndriiZakharenko.github.io/react_product-categories-practic/)

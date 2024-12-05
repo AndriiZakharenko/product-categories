@@ -30,4 +30,4 @@ Implementted many options:
 
 ## Demo Links
 
-- [DEMO LINK](https://AndriiZakharenko.github.io/react_product-categories-practic/)
+- [DEMO LINK](https://AndriiZakharenko.github.io/react_product-categories-practice/)
